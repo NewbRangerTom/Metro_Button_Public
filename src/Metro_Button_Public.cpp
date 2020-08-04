@@ -1,3 +1,6 @@
+//This button sketch is a template for adding multiple locations to the
+//weather display sketch.
+
 #include <Arduino.h>
 
 // variables
